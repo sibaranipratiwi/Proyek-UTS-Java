@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Perkuliahan\S5\JAVA EE\UTS\Kel-07_Springboot_Rabbitmq\.metadata\.plugins\org.eclipse.jdt.core
+635617178.index
+4117131793.index
